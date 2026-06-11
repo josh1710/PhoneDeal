@@ -147,10 +147,4 @@ Le serveur Node.js expose les routes suivantes :
 
 ---
 
-## Auteurs
-- Réalisé par [Votre Nom] – BTS SIO – Épreuve E6
-- Encadrant : [Nom du professeur ou tuteur]
 
----
-
-**Ce projet est un exemple pédagogique pour l'épreuve E6 du BTS SIO.** 
